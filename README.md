@@ -20,6 +20,6 @@ This is a project about traveling across the US. We've made it so all the elemen
 	
 * [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
 
-* [Link to the project page on github pages](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+* [Link to the project page on github pages](https://alfonzapps.github.io/web_project_3/)
 
 * [TinyPng](https://tinypng.com/)
