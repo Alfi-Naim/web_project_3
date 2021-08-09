@@ -8,6 +8,7 @@
     color: #fff;
     margin-top: 8px;
     margin-bottom: 0;
+    text-transform: capitalize;
 }
 
 @media screen and (max-width: 985px) {

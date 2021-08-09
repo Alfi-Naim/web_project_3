@@ -1,7 +1,7 @@
 .cover {
     max-width: 1184px;
     min-height: 740px;
-    margin: 92px auto 0 auto;
+    margin: 89px auto 0 auto;
     position: relative;
   }
   
@@ -23,6 +23,7 @@
     .cover {
       max-width: 320px;
       min-height: 200px;
+      margin: 64px auto 0 auto;
     }
   }
   
